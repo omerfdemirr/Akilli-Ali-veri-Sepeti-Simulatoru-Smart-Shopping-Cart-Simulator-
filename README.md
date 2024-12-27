@@ -1,6 +1,6 @@
 ###Akıllı Alışveriş Sepeti Simülatörü
 
-+#Bu proje, bir alışveriş simülasyonunu temel alarak kullanıcıların basit ve etkili bir şekilde alışveriş yapmasını sağlayan bir konsol uygulamasıdır. Uygulama, temel yazılım prensiplerine uygun olarak tasarlandı ve genişletilebilir bir yapıya sahip.
++Bu proje, bir alışveriş simülasyonunu temel alarak kullanıcıların basit ve etkili bir şekilde alışveriş yapmasını sağlayan bir konsol uygulamasıdır. Uygulama, temel yazılım prensiplerine uygun olarak tasarlandı ve genişletilebilir bir yapıya sahip.
 
 ##Projede kullanıcılar:
 
